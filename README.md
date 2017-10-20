@@ -29,5 +29,5 @@ Repositório de fontes da equipe K-2SO
   </tr>
 </table>
 <br>
-<a href="http://rogerdudler.github.io/git-guide/index.pt_BR.html">Um link para um guia para utilizar o Git</a>
+<a href="http://rogerdudler.github.io/git-guide/index.pt_BR.html">Um guia para utilizar o Git</a>
 
