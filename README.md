@@ -25,7 +25,7 @@ Repositório de fontes da equipe K-2SO
 <tr>
   <th>react-navigation</th>
   <th>1.0.0-beta.6</th>
-  <th>npm install react-navigationa@1.0.0-beta.6</th>
+  <th>npm install react-navigation@1.0.0-beta.6</th>
   </tr>
 </table>
 <br>
