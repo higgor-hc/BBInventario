@@ -8,7 +8,7 @@ export default class Navigation extends React.Component {
   constructor() {
     super();
     this.Navigator = StackNavigator({
-      HomeGAM: { screen: LoginGam },
+      //HomeGAM: { screen: LoginGam },
       HomeInventario: { screen: PrimeiraTela },
       lerMaterial: { screen: LerMaterial }
     });
